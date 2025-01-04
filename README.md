@@ -14,7 +14,7 @@ Não foi realizada a diagramação do ebook, o foco desse ebook foi exercitar a 
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo diferenciado e inovador, num formato de diálogo incomum e lúdico, abordando um assunto considerado abstrato e não comprovado cientificamente, porém, que é alvo de curiosidade e investigação, demonstrando como as IAs generativas auxiliam na elaboração de vários tipos de conteúdos, insights criativos e trazem agilidade para produção de materiais educacionais e que incitam o apredizado.
-[Acesso ao ebook](https://github.com/Ro-faverao/DIO_Project/blob/main/Ebook-dialogo-cientista-IA.pdf)
+[Acesso ao ebook](https://github.com/Ro-faverao/DIO_Project/blob/main/Ebook-SemDiagramacao-dialogo-cientista-IA.pdf)
 
 ## 💭 Reflexão (Opcional)
 A IA nos traz o auxílio complementar que necessitamos para investigação e produção de conteúdo, a existência delas nos motiva a produzir mais e com mais qualidade e agilidade.
