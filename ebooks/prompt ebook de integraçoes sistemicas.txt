@@ -1,0 +1,9 @@
+Crie um texto para ebook, com foco em tipos de integrações sistêmicas, listando as integrações mais utilizadas atualmente pelas grandes empresas
+{REGRAS}
+> Explique sempre de uma forma simples e didática
+> Deixe o texto enxuto e claro, quando houver siglas, adicione o significado da sigla na frente
+> Sempre traga exemplos do layout das integrações
+> Sempre deixe um título por tópico
+> Quando houver termos no idioma inglês, traduza entre parênteses na frente, em português
+> Exemplifique com softwares ou ferramentas que realizam ou facilitam a execução da integração sistêmica
+> Mencione como a solução arquitetural definida influencia a agilidade corporativa
