@@ -3,21 +3,35 @@
 Pasta `desafio/`: E-book aborda de forma lúdica o diálogo entre um cientista com especialidade em física e uma IA, as IAs Generativas foram utilizadas para enriquecer a produção do conteúdo do ebook, usando como referência da engenharia de prompt o contexto das temáticas idealizadas em formato de diálogo entre um personagem humano e uma IA de outra Galáxia. (Título: o Diálogo intrigante entre um cientista e uma IA).  
 Pasta - `ebooks/`: E-book construído sobre Arquitetura de Soluções tecnológicas com ênfase nas integrações sistêmicas previstas na atualidade, contendo breve descritivo, exemplos sobre utilização do formato de integração, e com tópico resumindo a influência da Arquitetura na Agilidade Organizacional.  
 Pasta `output/`: Contempla o audio gerado pela IA ElevenLabs convertendo o roteiro do Podcast denominado Deploycast, com episódio sobre DevOps.  
-Pasta `Planilha/`: Contempla planilha de gastos (saídas) e ganhos (entradas) construindo dashboard por tipo de gasto, mantendo também um gráfico com projeção de economia e meta.
+Pasta `Planilha/`: Contempla planilha de gastos (saídas) e ganhos (entradas) construindo dashboard por tipo de gasto, mantendo também um gráfico com projeção de economia e meta.  
+Pasta `Desafio_final/`: Contempla o documento detalhado com o Projeto CAIXA - Criando Impacto Social, um artigo construído sobre os aprendizados, evolução e impacto do Bootcamp do DIO e Caixa, e uma apresentação resumida sobre o tema CAIXA - Criando Impacto Social
 
 ## Estrutura do repositório
 - `desafio/`: Contempla ebook em formato de diálogo lúdico entre Cientista e I.A gerado com insghts e imagens de IA.
 - `ebooks/`: Contempla ebook com diagramação, explorando o tema de Integrações Sistêmicas e a influência na Agilidade organizacional
 - `output/`: Contempla audio gerado com texto, que representa um Podcast denominado Deploycast, sendo o episódio sobre DevOps
 - `Planilha/`: Contempla a planilha de organização financeira gerada, com gastos (saídas) e ganhos (entradas) construindo dashboard por tipo de gasto
+- `Desafio_final/`: Contempla o documento detalhado com o Projeto CAIXA - Criando Impacto Social, um artigo construído sobre os aprendizados, evolução e impacto do Bootcamp do DIO e Caixa, e uma apresentação resumida sobre o tema CAIXA - Criando Impacto Social
 
 ## Como navegar
 Para ver os documentos, acesse as pastas específicas e busque o arquivo, o qual pode ser baixado
 
 ## 🤖 Tecnologias Utilizadas
-Para o conteúdo gerado no arquivo da pasta `desafio/`foram utilizadas as seguintes IA Generativas:  
+O conteúdo gerado no arquivo da pasta `desafio/` utilizou as seguintes IA Generativas:  
 Para compor as possibilidades de diálogo e roteiro entre os personagens [ChatGPT](https://chat.openai.com/)  
 Para criar as imagens que ilustram o ebook [StableDiffusionweb](https://stablediffusionweb.com/)  
+
+O conteúdo gerado na pasta `ebooks/` utilizou as seguintes IA Generativas:
+Para gerar um título de impacto e um resumo sobre o conteúdo proposto criei prompts mais elaborados e poderesos no [ChatGPT](https://chat.openai.com/)  
+Para criar as imagens que ilustram o ebook [Craiyon](https://www.craiyon.com/)  
+
+O conteúdo gerado no arquivo da pasta `output/` utilizou a seguinte IA Generativa: 
+Para gerar um título de impacto e um script sobre o tema criei prompts mais elaborados e poderesos no [ChatGPT](https://chat.openai.com/)  
+Para gerar o áudio do script gerado para o Podcast foi utilizado o [Elvenlabs](https://elevenlabs.io/)  
+
+O conteúdo gerado no arquivo da pasta `Desafio_final/` utilizou as seguintes IA Generativas:  
+Para gerar insights sobre o tema criei prompts mais elaborados e poderesos no [ChatGPT](https://chat.openai.com/)  
+Para gerar a apresentação foi utilizado o [Gamma](https://gamma.app/)
 
 ## 🧐 Processo de Criação
 Pasta desafio/
